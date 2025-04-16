@@ -1,0 +1,1 @@
+document.querySelector('button').onclick = (e) => { e.preventDefault(); document.getElementById('output').innerText = 'Generated content here...'; };
